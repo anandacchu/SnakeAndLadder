@@ -1,10 +1,11 @@
-﻿namespace SnakeAndLadderGame
+﻿namespace SnakeAndLadder.WinningPosition
 {
-    class program
+    class   program
     {
-        public  static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
         }
     }
 }
+
