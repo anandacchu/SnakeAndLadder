@@ -1,13 +1,12 @@
-﻿namespace SnakeAndLadder
+﻿namespace SnakeAndLadderGame
 {
-    class gameone
+
+    class program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To Snake And Ladder game");
-            Console.WriteLine("your start position is zero");
+            RandomNumber.Roll_The_Die();
         }
-
     }
-}
 
+}
