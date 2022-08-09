@@ -1,10 +1,10 @@
-﻿namespace SnakeAndLadder._5
+﻿namespace SnakeAndLadder_6
 {
     class program
     {
         public static void Main(string[] args)
         {
-            WinningPoint.WinPoint();
+            ReportOfWinningPosition.WinPoint();
         }
     }
 }
