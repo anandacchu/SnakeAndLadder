@@ -5,7 +5,7 @@
     {
         public static void Main(string[] args)
         {
-            RandomNumber.Roll_The_Die();
+            Console.WriteLine("your start position is zero");
         }
     }
 
